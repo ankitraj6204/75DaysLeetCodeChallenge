@@ -1,7 +1,6 @@
 class Solution:
     def topKFrequent(self, nums: list[int], k: int) -> list[int]:
         
-        # Step 1: Count frequency manually
         freq = {}
         for num in nums:
             if num in freq:
