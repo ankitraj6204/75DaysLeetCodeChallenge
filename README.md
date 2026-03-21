@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/ankitraj6204/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/ankitraj6204/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/ankitraj6204/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ankitraj6204/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitraj6204/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
@@ -53,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/ankitraj6204/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/ankitraj6204/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
